@@ -9,10 +9,10 @@ Copy of supplementary data for the thesis:
 - Supplementary Data 5 - [C-SIDE intercept region-stratified model on RCTD-mapped Polioudakis broad reference results (653 DEGs)](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_5.csv)
 - Supplementary Data 6 - [C-SIDE intercept region-stratified model on cell2location-mapped Polioudakis broad reference results (1444
 DEGs)](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_6.csv)
-- Supplementary Data 7 - C-SIDE intercept brainwide model on cell2location-mapped Polioudakis fine reference results (155 DEGs)
-- Supplementary Data 8 - C-SIDE intercept region-stratified model on cell2location-mapped Polioudakis fine reference results (325
-DEGs)
-- Supplementary Data 9 - C-SIDE intercept brainwide model on cell2location-mapped Linnarsson reference results (334 DEGs)
+- Supplementary Data 7 - [C-SIDE intercept brainwide model on cell2location-mapped Polioudakis fine reference results (155 DEGs)](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_7.csv)
+- Supplementary Data 8 - [C-SIDE intercept region-stratified model on cell2location-mapped Polioudakis fine reference results (325
+DEGs)](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_8.csv)
+- Supplementary Data 9 - [C-SIDE intercept brainwide model on cell2location-mapped Linnarsson reference results (706 DEGs)](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_9.csv)
 - Supplementary Data 10 - [HSA21 cell type-specific DEGs from C-SIDE brainwide model on cell2location-mapped Polioudakis broad
 cell type reference](https://github.com/krademaker/MSc_thesis_DKFZ_reproducibility/blob/main/supplementary_data/Suppl_Data_10.csv)
 - Supplementary Data 11 - [HSA21 cell type-specific DEGs from C-SIDE region-stratified model on cell2location-mapped Polioudakis
